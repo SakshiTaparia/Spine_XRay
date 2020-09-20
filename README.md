@@ -1,1 +1,1 @@
-# Spine-X-Ray-Classification
+# Spine X Ray Classification
